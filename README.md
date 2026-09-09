@@ -307,7 +307,7 @@ I'm particularly interested in teams where I can:
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://kunal-debug1.github.io/Portfolio1">
+<a href="https://kunal-debug1.github.io/Portfolio">
 <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
